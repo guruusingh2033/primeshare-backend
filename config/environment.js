@@ -15,7 +15,7 @@ module.exports = {
   stripe:{
     apiKey: 'sk_test_mRU4BQ2S5rVyPHLYYKkpdx01' // client account
   },
-  Access_key: 'AKIAIPSUKXZ4FZYNAIUQ',
-  Secret_key: '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',
+  Access_key: 'AKIAJH62T7OAJWMELNDQ',
+  Secret_key: '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',
   bucketName: 'primeshare'
 };
